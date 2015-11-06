@@ -21,7 +21,7 @@ The code was compiled and tested using the following:
     - Nexus S Image: http://imgur.com/P9dleUj
 
   - Operating System: CyanogenMod version - `10.1-20130411-EXPERIMENTAL-crespo-M3`
-    - Download CyanogenMod flashable image: http://bit.ly/20zzGvL
+    - CyanogenMod flashable image: http://bit.ly/20zzGvL
 
   - Emulation button is currently disabled
     - My original intention was to emulate Mifare Classic
