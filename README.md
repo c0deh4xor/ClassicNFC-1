@@ -21,7 +21,7 @@ The code was compiled and tested using the following:
     - http://imgur.com/P9dleUj
 
   - Operating System: Cyanogenmod version - `10.1-20130411-EXPERIMENTAL-crespo-M3`
-    - https://download.cyanogenmod.org/get/jenkins/24767/cm-10.1-20130411-EXPERIMENTAL-crespo-M3.zip
+    - http://bit.ly/20zzGvL
 
   - Emulation button is currently disabled
     - My original intention was to emulate Mifare Classic
