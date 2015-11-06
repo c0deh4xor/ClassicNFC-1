@@ -3,7 +3,7 @@
 Example code to demonstrate cloning Mifare Classic and sniffing credit
 card data using NFC on Android
 
-### Ruxcon 2015 Presentation
+### Ruxcon Presentation
 
   - https://github.com/gsbabil/ClassicNFC/blob/master/gsbabil-ruxconf2015.pdf
 
