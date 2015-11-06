@@ -18,10 +18,10 @@ card data using NFC on Android
 The code was compiled and tested using the following:
 
   - Phone: Google Nexus S (codename: `crespo`)
-    - http://imgur.com/P9dleUj
+    - Nexus S Image: http://imgur.com/P9dleUj
 
-  - Operating System: Cyanogenmod version - `10.1-20130411-EXPERIMENTAL-crespo-M3`
-    - http://bit.ly/20zzGvL
+  - Operating System: CyanogenMod version - `10.1-20130411-EXPERIMENTAL-crespo-M3`
+    - Download CyanogenMod flashable image: http://bit.ly/20zzGvL
 
   - Emulation button is currently disabled
     - My original intention was to emulate Mifare Classic
